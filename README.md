@@ -1,39 +1,41 @@
-**Ahmedsalah39622**## Hi there! 👋
+## Hi there! 👋
 
-I'm Ahmed Salah, a passionate developer with a focus on DevOps and full-stack engineering. I love building efficient systems and continuously learning new technologies to improve the development process.
+I'm **Ahmed Salah**, a passionate developer and tech enthusiast. I love building innovative solutions and exploring new technologies. Let's connect and collaborate!
 
 ## About Me
 
-I am currently working as a developer and have been involved in various projects that span multiple technologies. I am based in an undisclosed location, and my journey in tech began with a strong interest in software development and DevOps practices.
+I am a software developer with a focus on DevOps and full-stack development. Based in Egypt, I enjoy working on projects that challenge my skills and allow me to learn new technologies. I'm constantly seeking to improve my skills and contribute to exciting projects.
 
 ## Skills & Technologies
 
-bash,cpp,docker,git,github,html,laravel,linux,mysql,nodejs,php,react,redis,spring
+bash,css,docker,git,github,html,laravel,mysql,nodejs,php,react,redis,swift
 
 ## Top Projects
 
-- [DevOps_Team_5](https://github.com/Ahmedsalah39622/DevOps_Team_5): A collaborative DevOps project focusing on CI/CD practices. ⭐️ 0 | 
-- [Devops-Enginerring](https://github.com/Ahmedsalah39622/Devops-Enginerring): A project focused on DevOps engineering principles. ⭐️ 1 | 
-- [New-Project_Laravel_SQLSERVER](https://github.com/Ahmedsalah39622/New-Project_Laravel_SQLSERVER): A Laravel project integrated with SQL Server. ⭐️ 0 | Language: JavaScript
-- [lifeline](https://github.com/Ahmedsalah39622/lifeline): My graduation project focusing on various tech stacks. ⭐️ 1 | Language: JavaScript
-- [Projects_Done](https://github.com/Ahmedsalah39622/Projects_Done): A collection of completed projects showcasing my skills. ⭐️ 1 | Language: Visual Basic .NET
+- [DevOps_Team_5](https://github.com/Ahmedsalah39622/DevOps_Team_5) - A collaborative project focusing on DevOps practices.  ⭐0  - Language: N/A
+- [lifeline](https://github.com/Ahmedsalah39622/lifeline) - My graduation project that showcases my skills in software development. ⭐1 - Language: JavaScript
+- [Devops-Enginerring](https://github.com/Ahmedsalah39622/Devops-Enginerring) - Project focused on engineering practices for DevOps. ⭐1 - Language: N/A
+- [Projects_Done](https://github.com/Ahmedsalah39622/Projects_Done) - A collection of completed projects demonstrating my development capabilities. ⭐1 - Language: Visual Basic .NET
+- [zero_day](https://github.com/Ahmedsalah39622/zero_day) - My first repository as a full-stack engineer, showcasing foundational skills. ⭐0 - Language: Shell
 
 ## GitHub Stats
 
-Public Repos: 10 | Followers: 0 | Following: 2 
+🔹 **Public Repositories:** 11  
+🔹 **Followers:** 0  
+🔹 **Following:** 2  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmedsalah39622&show_icons=true&theme=radical)
 
 ## Recent Activity
 
-- Pushed to [DevOps_Team_5](https://github.com/Ahmedsalah39622/DevOps_Team_5) on Aug 22, 2025
-- Created new repository [DevOps_Team_5](https://github.com/Ahmedsalah39622/DevOps_Team_5) on Aug 22, 2025
-- Updated README.md in [DevOps_Team_5](https://github.com/Ahmedsalah39622/DevOps_Team_5) on Aug 22, 2025
-- Pushed to [Devops-Enginerring](https://github.com/Ahmedsalah39622/Devops-Enginerring) on Aug 22, 2025
-- Created new repository [Projects_Done](https://github.com/Ahmedsalah39622/Projects_Done) on Jan 20, 2025
+- Updated README.md in [DevOps_Team_5](https://github.com/Ahmedsalah39622/DevOps_Team_5)  
+- Pushed changes to [DevOps_Team_5](https://github.com/Ahmedsalah39622/DevOps_Team_5)  
+- Created [DevOps_Team_5](https://github.com/Ahmedsalah39622/DevOps_Team_5) repository  
+- Pushed changes to [Devops-Enginerring](https://github.com/Ahmedsalah39622/Devops-Enginerring)  
+- Updated [Projects_Done](https://github.com/Ahmedsalah39622/Projects_Done)
 
 ## Latest Blog Posts
 
-Currently, I do not have any blog posts available. But stay tuned for future updates!
+Currently, I don't have any blog posts. Stay tuned for updates!
 
 ## Connect with Me
 
