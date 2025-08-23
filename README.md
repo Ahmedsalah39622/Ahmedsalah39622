@@ -57,4 +57,20 @@ Currently, I don't have any blog posts. Stay tuned for updates!
 
 ## Connect with Me
 
-{}
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/Ahmedsalah39622" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-mahmoud-salah-3727a034a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:monoxide.cand9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/10ly9Iezjvap3bv52CwGUdUt-zlpmXIVA/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
