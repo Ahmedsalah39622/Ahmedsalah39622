@@ -12,8 +12,8 @@ bash,cpp,docker,git,github,html,laravel,linux,mysql,nodejs,php,react,redis,sprin
 
 ## Top Projects
 
-- [DevOps_Team_5](https://github.com/Ahmedsalah39622/DevOps_Team_5): A collaborative DevOps project focusing on CI/CD practices. ⭐️ 0 | Language: Not specified
-- [Devops-Enginerring](https://github.com/Ahmedsalah39622/Devops-Enginerring): A project focused on DevOps engineering principles. ⭐️ 1 | Language: Not specified
+- [DevOps_Team_5](https://github.com/Ahmedsalah39622/DevOps_Team_5): A collaborative DevOps project focusing on CI/CD practices. ⭐️ 0 | 
+- [Devops-Enginerring](https://github.com/Ahmedsalah39622/Devops-Enginerring): A project focused on DevOps engineering principles. ⭐️ 1 | 
 - [New-Project_Laravel_SQLSERVER](https://github.com/Ahmedsalah39622/New-Project_Laravel_SQLSERVER): A Laravel project integrated with SQL Server. ⭐️ 0 | Language: JavaScript
 - [lifeline](https://github.com/Ahmedsalah39622/lifeline): My graduation project focusing on various tech stacks. ⭐️ 1 | Language: JavaScript
 - [Projects_Done](https://github.com/Ahmedsalah39622/Projects_Done): A collection of completed projects showcasing my skills. ⭐️ 1 | Language: Visual Basic .NET
