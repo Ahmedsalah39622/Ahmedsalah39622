@@ -38,6 +38,11 @@ I am a software developer with a focus on DevOps and full-stack development. Bas
 🔹 **Following:** 2  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmedsalah39622&show_icons=true&theme=radical)
 
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedsalah39622&layout=compact&theme=radical)
+
+
 ## Recent Activity
 
 - Updated README.md in [DevOps_Team_5](https://github.com/Ahmedsalah39622/DevOps_Team_5)  
