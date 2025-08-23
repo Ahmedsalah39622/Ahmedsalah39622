@@ -25,17 +25,12 @@ I am a software developer with a focus on DevOps and full-stack development. Bas
 </p>
 ## Top Projects
 
-- [DevOps_Team_5](https://github.com/Ahmedsalah39622/DevOps_Team_5) - A collaborative project focusing on DevOps practices.  ⭐0  - Language: N/A
-- [lifeline](https://github.com/Ahmedsalah39622/lifeline) - My graduation project that showcases my skills in software development. ⭐1 - Language: JavaScript
-- [Devops-Enginerring](https://github.com/Ahmedsalah39622/Devops-Enginerring) - Project focused on engineering practices for DevOps. ⭐1 - Language: N/A
-- [Projects_Done](https://github.com/Ahmedsalah39622/Projects_Done) - A collection of completed projects demonstrating my development capabilities. ⭐1 - Language: Visual Basic .NET
-- [zero_day](https://github.com/Ahmedsalah39622/zero_day) - My first repository as a full-stack engineer, showcasing foundational skills. ⭐0 - Language: Shell
+- [lifeline](https://github.com/Ahmedsalah39622/lifeline) - My graduation project that showcases my skills in software development. ⭐1 - Language: JavaScript  
+- [Projects_Done](https://github.com/Ahmedsalah39622/Projects_Done) - A collection of completed projects demonstrating my development capabilities. ⭐1 - Language: Visual Basic .NET  
+- [ERP_CSS](https://github.com/Ahmedsalah39622/ERP_CSS) - An ERP system for managing company operations, including HR, finance, and inventory. - Language: PHP / Laravel  
+- [Hospital_Management_Dashboard](https://github.com/Ahmedsalah39622/Hospital_Management_Dashboard) - A web application for managing patient records, doctor schedules, and predictive analytics. - Language: Laravel / Vue.js  
 
-## GitHub Stats
 
-🔹 **Public Repositories:** 11  
-🔹 **Followers:** 0  
-🔹 **Following:** 2  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmedsalah39622&show_icons=true&theme=radical)
 
 ## 📊 Most Used Languages
