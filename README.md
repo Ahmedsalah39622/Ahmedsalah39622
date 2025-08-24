@@ -28,8 +28,6 @@ I am a software developer with a focus on DevOps and full-stack development. Bas
 - [lifeline](https://github.com/Ahmedsalah39622/lifeline) - My graduation project that showcases my skills in software development, A web application for managing patient records, doctor schedules, and predictive analytics.  ⭐1 - Language: JavaScript / Laravel / Vue.jst .
 - [Projects_Done](https://github.com/Ahmedsalah39622/Projects_Done) - A collection of completed projects demonstrating my development capabilities. ⭐1 - Language: Visual Basic .NET  
 - [CSS_Laravel](https://github.com/Ahmedsalah39622/CSS_Comapany_Laravel_Website) - An ERP system for managing company operations, including HR, finance, and inventory. - Language: PHP / Laravel  
-- [Hospital_Management_Dashboard](https://github.com/Ahmedsalah39622/Hospital_Management_Dashboard) -   
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmedsalah39622&show_icons=true&theme=radical)
 
